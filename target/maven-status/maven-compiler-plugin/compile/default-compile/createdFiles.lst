@@ -1,0 +1,5 @@
+com/alibou/videocall/VideocallApplication.class
+com/alibou/videocall/user/UserController.class
+com/alibou/videocall/user/User.class
+com/alibou/videocall/user/User$UserBuilder.class
+com/alibou/videocall/user/UserService.class
